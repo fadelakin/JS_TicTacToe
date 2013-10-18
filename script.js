@@ -1,9 +1,3 @@
-/* if (document.all||document.getElementById){
-document.write('<style>.tictac{')
-document.write('width:50px;height:50px;')
-document.write('}</style>')
-} */
-
 var sqr1, sqr2, sqr3, sqr4, sqr5, sqr6, sqr7, sqr8, sqr9
 var sqr1T = 0
 var sqr2T = 0
